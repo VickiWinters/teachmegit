@@ -79,3 +79,10 @@ p{
 		list-style-type:circle;
 		margin-left:40px;
 	}
+.content{
+	border: 10px solid transparent;
+    	-webkit-border-image: url(https://raw.githubusercontent.com/SixLabors/Branding/master/icons/shapes/sixlabors.shapes.128.png) 30 round;
+	-o-border-image: url(https://raw.githubusercontent.com/SixLabors/Branding/master/icons/shapes/sixlabors.shapes.128.png) 30 round;  /* Opera 11-12.1 */
+    	border-image: url(https://raw.githubusercontent.com/SixLabors/Branding/master/icons/shapes/sixlabors.shapes.128.png) 30 round;
+}/* style by Adar Raviv
+	*/
