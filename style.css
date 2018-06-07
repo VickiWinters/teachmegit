@@ -26,7 +26,8 @@ body{
 h1.site-title{
 	color:#222222;
 	font-family: Chiller, Algerian, Ravie;
-}/* style by Miguel Martinez
+	text-transform:uppercase;
+}/* style by Miguel Martinez & Karina
 	*/
 	
 a, a:link, a:visited{
@@ -42,9 +43,9 @@ a:hover, a:active, a:focus {
 	*/
 
 h1{
-	font-family:chiller, cursive;
+	font-family:Georgia, sans-serif;
 	color:#444444;
-}/* style by 
+}/* style by Karina 
 	*/
 h2{
 	font-family:Georgia, "Times New Roman", Times, serif;
