@@ -31,10 +31,7 @@ h1.site-title{
 }/* style by Miguel Martinez & Karina
 	*/
 
-.container .content h1{
-	font-family: 'Montserrat', sans-serif;
-	color:#fff
-}/* style by Aileen */
+
 	
 a, a:link, a:visited{
 	color:#0033FF;
@@ -94,4 +91,7 @@ p{
 }/* style by Adar Raviv
 	*/
 
-
+.content h1{
+	font-family: 'Montserrat', sans-serif;
+	color:#fff
+}/* style by Aileen */
