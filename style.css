@@ -30,6 +30,11 @@ h1.site-title{
 	text-transform:uppercase;
 }/* style by Miguel Martinez & Karina
 	*/
+
+.content .h1{
+	font-family: 'Montserrat', sans-serif;
+	
+}/* style by Aileen */
 	
 a, a:link, a:visited{
 	color:#0033FF;
@@ -88,3 +93,5 @@ p{
     	border-image: url(https://raw.githubusercontent.com/SixLabors/Branding/master/icons/shapes/sixlabors.shapes.128.png) 30 round;
 }/* style by Adar Raviv
 	*/
+
+
